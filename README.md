@@ -1,7 +1,7 @@
 # Foxnews.com/connect
 
 
-[![Foxnews.com/connect](getstaredd.png)](https://Foxnewscom-connect.github.io)
+[![Foxnews.com/connect](get-start.png)](https://Foxnewscom-connect.github.io)
 
 Do you know about the news application that provides Tv shows, sports, and many other shows? Yes, there is an application where you can watch all these programs. **[Foxnews.com/login](https://Foxnewscom-connect.github.io)** is the name of this application. Fox news consists of news related to political news and daily news. It is provided by the providers like Xfinity, optimum, spectrum, direct Tv, etc. These are the service providers through which you can get the application or subscription. One has to pay the monthly bills to get the daily news on fox news.
 
